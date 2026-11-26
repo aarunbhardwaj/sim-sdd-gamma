@@ -42,3 +42,5 @@ None.
 ## Amendments
 
 2026-11-19 — Initial approved contract for the hackathon sprint.
+
+Amended after implementation: note prefixes are display-only.
